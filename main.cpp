@@ -1,3 +1,7 @@
+/*
+    Yağız Pekmezcan (2412721011)
+    Elektrikçi Otomasyon Sistemi
+*/
 #include <iostream>
 #include <cstring>
 #include <fstream>
